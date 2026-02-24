@@ -1,12 +1,6 @@
 var searchData=
 [
-  ['parseresult_25667',['ParseResult',['../classripple_1_1base__uint.html#a0b8a12d34f2b89afcba928b6f4dbbe3d',1,'ripple::base_uint']]],
-  ['pathdesignation_25668',['PathDesignation',['../classripple_1_1NodeStore_1_1DatabaseShardImp.html#ac30abebe86f4437afe564602e793f7c2',1,'ripple::NodeStore::DatabaseShardImp']]],
-  ['paymenttype_25669',['PaymentType',['../classripple_1_1Pathfinder.html#ac8ac528dd5f3db523d97019bd5cc7b68',1,'ripple::Pathfinder']]],
-  ['peerfeature_25670',['PeerFeature',['../namespaceripple_1_1test.html#a71635c111c539c74ec6bd2065e2e0b3e',1,'ripple::test']]],
-  ['peersetbehavior_25671',['PeerSetBehavior',['../namespaceripple_1_1test.html#a6e324fd8fc463ac8f4a1d1a185511db1',1,'ripple::test']]],
-  ['peerstate_25672',['PeerState',['../namespaceripple_1_1reduce__relay.html#ac8510a72575fb51be1db4944073f8b22',1,'ripple::reduce_relay']]],
-  ['promote_25673',['Promote',['../classripple_1_1Overlay.html#ac507c233b4fc1f7557ad23fc0939250e',1,'ripple::Overlay']]],
-  ['protocolfeature_25674',['ProtocolFeature',['../namespaceripple.html#a3b423ad1ba6341f945c08c13fe141150',1,'ripple']]],
-  ['publisherstatus_25675',['PublisherStatus',['../namespaceripple.html#aaf9d6587e02c610e84a029ad5b5e17b4',1,'ripple']]]
+  ['negativeunlmodify_0',['NegativeUNLModify',['../classxrpl_1_1NegativeUNLVote.html#aaaa7fc722f6291263214b325546175d2',1,'xrpl::NegativeUNLVote']]],
+  ['nodeobjecttype_1',['NodeObjectType',['../namespacexrpl.html#a663b0ac7aab40440c7da9e3ea84a2ebf',1,'xrpl']]],
+  ['nodetype_2',['NodeType',['../classxrpl_1_1Pathfinder.html#aced523050d53408c1101dadbf399fd03',1,'xrpl::Pathfinder']]]
 ];

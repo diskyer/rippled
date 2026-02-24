@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['failhard_25642',['FailHard',['../classripple_1_1NetworkOPs.html#ada325f492d3aa1aa62d4b159e106c37a',1,'ripple::NetworkOPs']]],
-  ['fetchtype_25643',['FetchType',['../namespaceripple_1_1NodeStore.html#a6334ed426a8dbe335761b9d81ab6f19f',1,'ripple::NodeStore']]],
-  ['freezehandling_25644',['FreezeHandling',['../namespaceripple.html#a17a9a9b903b66e49f5413d82ce79f085',1,'ripple']]]
+  ['ecdsacanonicality_0',['ECDSACanonicality',['../namespacexrpl.html#acb1a9b1647370fa776aaad063944ea17',1,'xrpl']]],
+  ['error_1',['error',['../namespacexrpl_1_1test_1_1jtx_1_1directory.html#a1477bb27878ebdbe8b6996ab8030f0c7',1,'xrpl::test::jtx::directory::Error'],['../namespacexrpl_1_1cryptoconditions.html#a815a250cf145bb52ab180501c18c2167',1,'xrpl::cryptoconditions::error']]],
+  ['error_5fcode_5fi_2',['error_code_i',['../namespacexrpl.html#af6fadbc1b2101eff5fa78e7e2a50b76f',1,'xrpl']]],
+  ['eventtype_3',['EventType',['../classxrpl_1_1test_1_1reduce__relay__test.html#a804073c0d721a695fec723ccd4d58021',1,'xrpl::test::reduce_relay_test']]],
+  ['exception_4',['Exception',['../structxrpl_1_1test_1_1RPCCallTestData.html#a6a30983394dba154cdefd3a7164e57d4',1,'xrpl::test::RPCCallTestData']]]
 ];

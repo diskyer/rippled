@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['x509_5fptr_25615',['x509_ptr',['../namespaceripple_1_1openssl_1_1detail.html#ae2d29f79e03cddf63e1c4d4b9d0c0db3',1,'ripple::openssl::detail']]],
-  ['xor_5fshift_5fengine_25616',['xor_shift_engine',['../namespacebeast.html#a3a89b040ab5ccff1b2ce7692464c6a48',1,'beast']]]
+  ['xchainaccountcreatecommit_0',['XChainAccountCreateCommit',['../namespacexrpl.html#a070b162b025dfa8958ffcb1839f1fa52',1,'xrpl']]],
+  ['xchainmodifybridge_1',['XChainModifyBridge',['../namespacexrpl.html#a8428ac650baccd04dddc207cb40ca79f',1,'xrpl']]],
+  ['xor_5fshift_5fengine_2',['xor_shift_engine',['../namespacebeast.html#a3a89b040ab5ccff1b2ce7692464c6a48',1,'beast']]]
 ];

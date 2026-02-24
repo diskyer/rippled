@@ -1,7 +1,13 @@
 var searchData=
 [
-  ['reason_25677',['Reason',['../classripple_1_1InboundLedger.html#a3e8d7f8b5fa089a184dcc9b00b6e0da7',1,'ripple::InboundLedger']]],
-  ['requirefullycanonicalsig_25678',['RequireFullyCanonicalSig',['../classripple_1_1STTx.html#a8bb1ca29546758e0fe3e97d1753e3d8d',1,'ripple::STTx']]],
-  ['result_25679',['Result',['../classripple_1_1OpenLedger.html#a96bb5c3c9dfae39b054eedc8d6026a97',1,'ripple::OpenLedger::Result()'],['../namespaceripple_1_1PeerFinder.html#ae15e107cb3b0b67dbf43bd4a0a229c15',1,'ripple::PeerFinder::Result()']]],
-  ['role_25680',['Role',['../namespaceripple.html#ae08fe18f17b24699ce41d3898fbb8c2c',1,'ripple']]]
+  ['parseresult_0',['ParseResult',['../classxrpl_1_1base__uint.html#a93af8b20d3753ecf5a8772c601c88adb',1,'xrpl::base_uint']]],
+  ['paymentspecialcase_1',['PaymentSpecialCase',['../namespacexrpl_1_1detail.html#a230ef83732e01df4f26a546cfadcbab0',1,'xrpl::detail']]],
+  ['paymenttype_2',['PaymentType',['../classxrpl_1_1Pathfinder.html#a981c298e423415a93a898e6529ea2a5e',1,'xrpl::Pathfinder']]],
+  ['peerfeature_3',['PeerFeature',['../namespacexrpl_1_1test.html#a5cebad0b2b2eda56e01713bff594cbcf',1,'xrpl::test']]],
+  ['peersetbehavior_4',['PeerSetBehavior',['../namespacexrpl_1_1test.html#a5661b745c3965d8db802e3f018f72356',1,'xrpl::test']]],
+  ['peerstate_5',['PeerState',['../namespacexrpl_1_1reduce__relay.html#aabcfdf7ad8e9d15bf8a86938fc82f5d2',1,'xrpl::reduce_relay']]],
+  ['privilege_6',['Privilege',['../namespacexrpl.html#a7de456270a44ded0681909046c567f9f',1,'xrpl']]],
+  ['promote_7',['Promote',['../classxrpl_1_1Overlay.html#a613af4cd38baaaaa525eaea8dfbff50c',1,'xrpl::Overlay']]],
+  ['protocolfeature_8',['ProtocolFeature',['../namespacexrpl.html#a50e293001219a84ae2adcc2068673188',1,'xrpl']]],
+  ['publisherstatus_9',['PublisherStatus',['../namespacexrpl.html#a9f8ae0078d6c6999355160984cb10414',1,'xrpl']]]
 ];

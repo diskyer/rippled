@@ -1,12 +1,12 @@
 var searchData=
 [
-  ['waitreset_26510',['WaitReset',['../classripple_1_1test_1_1reduce__relay__test.html#a14441737f30e94f46c7a775c1a504b5ba3544829093ee68a8e1d99b4bd3913f34',1,'ripple::test::reduce_relay_test']]],
-  ['warn_26511',['warn',['../namespaceripple_1_1Resource.html#ae12997de115c1cf0032794aa5ea1b15daeb2060f947d4923c9f750ee61eccf5ad',1,'ripple::Resource']]],
-  ['warningthreshold_26512',['warningThreshold',['../namespaceripple_1_1Resource.html#a05fb3b8e52cf545fd127f4ee01d435ebaf9650eae9082653d5c5c741cfdb13d5f',1,'ripple::Resource']]],
-  ['warnrpc_5famendment_5fblocked_26513',['warnRPC_AMENDMENT_BLOCKED',['../namespaceripple.html#a53248e40c0a268c7c59fbe4a6e1179d9aacc48aeea6bf2e5a6050dc741d1e37b4',1,'ripple']]],
-  ['warnrpc_5fexpired_5fvalidator_5flist_26514',['warnRPC_EXPIRED_VALIDATOR_LIST',['../namespaceripple.html#a53248e40c0a268c7c59fbe4a6e1179d9a2efcf8a6d04e135dcf594a1d47a930ca',1,'ripple']]],
-  ['warnrpc_5freporting_26515',['warnRPC_REPORTING',['../namespaceripple.html#a53248e40c0a268c7c59fbe4a6e1179d9a0c51e1f0a1a9eb4993423964f81f956c',1,'ripple']]],
-  ['warnrpc_5funsupported_5fmajority_26516',['warnRPC_UNSUPPORTED_MAJORITY',['../namespaceripple.html#a53248e40c0a268c7c59fbe4a6e1179d9a79a88f958ac2f8dad164010cf329c33b',1,'ripple']]],
-  ['withallfields_26517',['withAllFields',['../classripple_1_1STObject.html#abfe55ede147301d55de3383deb20b288adba4a539075f71fb97388e561b098dfd',1,'ripple::STObject']]],
-  ['wrongledger_26518',['wrongLedger',['../namespaceripple.html#a33f8b6e68b5f63faf2e9755cc251563ea1dde5f68261b60a2e4655f5ad1f13e0b',1,'ripple']]]
+  ['valid_0',['Valid',['../namespacexrpl.html#a2aa76dac53b5e6a5517ed343dd592b51a3ac705f2acd51a4613f9188c05c91d0d',1,'xrpl']]],
+  ['validated_1',['Validated',['../namespacexrpl.html#a709d0628574726b9aa3968d867c2991aa5364259abab90e94890f2ed2481b9824',1,'xrpl']]],
+  ['validation_2',['validation',['../classxrpl_1_1TrafficCount.html#a93a9bbac038b491a59722cb03d5285b3ac54b15f6df7b5f898af6b82435d5fecc',1,'xrpl::TrafficCount::validation'],['../namespacexrpl.html#ac599741e6d4066bada11df4c7e8ad30aaa617908b172c473cb8e8cda059e55bf0',1,'xrpl::validation']]],
+  ['validation_5fduplicate_3',['validation_duplicate',['../classxrpl_1_1TrafficCount.html#a93a9bbac038b491a59722cb03d5285b3a5cef78b98a4d8de01f96e1470642c056',1,'xrpl::TrafficCount']]],
+  ['validation_5funtrusted_4',['validation_untrusted',['../classxrpl_1_1TrafficCount.html#a93a9bbac038b491a59722cb03d5285b3ad42622144ef3e41e98fc2a6a41f7dc62',1,'xrpl::TrafficCount']]],
+  ['validatorlist_5',['validatorlist',['../classxrpl_1_1TrafficCount.html#a93a9bbac038b491a59722cb03d5285b3a1b56f75b473f748038e7f02f099330e7',1,'xrpl::TrafficCount']]],
+  ['validatorlist2propagation_6',['ValidatorList2Propagation',['../namespacexrpl.html#a50e293001219a84ae2adcc2068673188abbd68b30711cfd4adc8abd9b5519abe1',1,'xrpl']]],
+  ['validatorlistpropagation_7',['ValidatorListPropagation',['../namespacexrpl.html#a50e293001219a84ae2adcc2068673188a9a32e2a438c197a712d352ca4e69b65b',1,'xrpl']]],
+  ['vault_8',['VAULT',['../namespacexrpl.html#aa040fac78e4975614b31771a1bc5f7adae9569439466b447c2678d48306e433f9',1,'xrpl']]]
 ];
